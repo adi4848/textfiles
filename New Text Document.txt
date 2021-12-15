@@ -1,0 +1,17 @@
+using css
+convert present xpaths to css
+use jira . for defect tracking bug life cycle . defect management . testcase management . 
+jira cannot track on its own .  xray plugin helps in handle test cases . 
+when we excute in jenkins . it will pull code from bit bucket. 
+in order to pull java code it will take form bitbuket. 
+to pull test cases we pull it from jira . xray plugin will help .
+ main use of xray is to support and test managemtn in jira and to pull the feature files in the environment.
+go trugh
+css
+jira huge documentation
+xray plugin - documentation (course on yorbit)
+course or documentation
+why taking ?
+so i can do things independently.
+
+
